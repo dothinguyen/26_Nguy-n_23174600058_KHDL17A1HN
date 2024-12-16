@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ds-sinhvien>
+    <sinhvien>
+        <masv>SV0401</masv>
+        <tensv>Đỗ Thị Nguyên</tensv>
+        <namsinh>2005</namsinh>
+        <lop>17A1</lop>
+        <gioitinh>Nữ</gioitinh>
+    </sinhvien>
+    <sinhvien>
+        <masv>SV0402</masv>
+        <tensv>Nguyễn Văn A</tensv>
+        <namsinh>2004</namsinh>
+        <lop>17A1</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+    <sinhvien>
+        <masv>SV003</masv>
+        <tensv>Phạm Văn C</tensv>
+        <namsinh>2002</namsinh>
+        <lop>17A1</lop>
+        <gioitinh>Nam</gioitinh>
+    </sinhvien>
+</ds-sinhvien>

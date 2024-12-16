@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee>
+        <director>
+            <name>Đỗ Thị Nguyên</name>
+            <address>234 Đường ABC, Quận E, TP.Thái Bình</address>
+            <phone>0359308369</phone>
+            <taxId>0123456789</taxId>
+        </director>
+    </employee>
+</company>
